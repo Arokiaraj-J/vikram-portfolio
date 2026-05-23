@@ -11,19 +11,29 @@ const experiences = [
     period: "Mid 2024 – Present",
     icon: Building2,
     color: "primary",
+
     description:
-      "Working as a Backend Developer on the Evoltec Enterprise Property Management & CRM System, responsible for developing scalable backend APIs, approval workflows, HRMS modules, payroll systems, leasing modules, ESS modules, and enterprise business logic implementation.",
+      "Working as a Backend Developer on the Evoltec Enterprise Property Management & CRM System, responsible for developing scalable backend APIs, approval workflows, HRMS modules, payroll systems, leasing modules, ESS modules, and enterprise-level business logic implementation.",
+
     responsibilities: [
       "Enterprise backend API development",
       "Approval workflow implementation",
-      "HRMS and Payroll module development",
+      "HRMS and payroll module development",
       "PostgreSQL database management",
-      "Middleware & validation handling",
+      "Middleware and validation handling",
       "Performance optimization",
       "Production deployment and server support",
       "Debugging and feature enhancements",
     ],
-    technologies: ["Node.js", "Express.js", "TypeScript", "PostgreSQL", "PM2", "Postman"],
+
+    technologies: [
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "PostgreSQL",
+      "PM2",
+      "Postman"
+    ],
   },
   {
     title: "Junior Developer",
