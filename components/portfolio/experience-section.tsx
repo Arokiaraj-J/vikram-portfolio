@@ -12,7 +12,7 @@ const experiences = [
     icon: Building2,
     color: "primary",
     description:
-      "Currently working as a Backend Developer on the Evoltec enterprise Property Management System. Responsible for developing scalable backend APIs, approval workflows, HRMS modules, payroll systems, and business logic implementation across multiple enterprise modules.",
+      "Working as a Backend Developer on the Evoltec Enterprise Property Management & CRM System, responsible for developing scalable backend APIs, approval workflows, HRMS modules, payroll systems, leasing modules, ESS modules, and enterprise business logic implementation.",
     responsibilities: [
       "Enterprise backend API development",
       "Approval workflow implementation",

@@ -22,17 +22,26 @@ const projects = [
   {
     title: "Evoltec Property Management",
     description:
-      "A robust property management system that streamlines real estate operations. Handles property listings, tenant management, maintenance requests, and financial reporting with enterprise-grade security.",
-    technologies: ["Node.js", "Express.js", "PostgreSQL", "PM2", "Postman"],
+      "An enterprise-level Property Management and CRM platform designed to manage Leasing, Sales, HRMS, Payroll, Facility Management, ESS, and Approval Workflow operations for real estate businesses.",
+
+    technologies: [
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "PM2",
+      "Postman"
+    ],
+
     icon: Server,
     color: "accent",
+
     features: [
-      "Property & tenant management",
-      "Maintenance request system",
-      "Financial reporting",
-      "Multi-tenant architecture",
+      "CRM & leasing management",
+      "HRMS & payroll modules",
+      "Approval workflow system",
+      "Enterprise business automation",
     ],
-  },
+  }
 ];
 
 export function ProjectsSection() {

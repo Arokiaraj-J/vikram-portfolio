@@ -169,8 +169,8 @@ export function ContactSection() {
               className="flex justify-center"
             >
               <a
-                href="/Vikram_Aathithayan_Nodejs(2+Years) 1.pdf"
-                download
+                href="/resume.pdf"
+                download="Vikram_Aathithayan_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-gradient-to-r from-primary to-accent text-primary-foreground font-semibold hover:shadow-lg hover:shadow-primary/25 transition-all duration-300 relative overflow-hidden group/btn hover:scale-[1.02] active:scale-[0.98]"
